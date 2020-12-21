@@ -1,1 +1,2 @@
-# mining
+What is Bitcoin Mining Software?
+Bitcoin mining software is used to keep the decentralized digital cryptocurrency secure. Miners are rewarded with Bitcoin for tracking and securing transactions known as blockchains. Mining is a way to earn bitcoin without paying for it, making a trade for it, or putting any money upfront—and software helps you do this. The Bitcoin mining software works in conjunction with Bitcoin mining hardware, which are specialized computers built to mine cryptocurrency. The software is how you connect your hardware with your mining pool. The mining pool is essentially mining together to find the bitcoin and then splitting the payout with everyone in the pool.
